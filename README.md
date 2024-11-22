@@ -1,4 +1,3 @@
 # cozy
-this is my first repository
-<br>
-auther - Rahul
+this is my first repository <br>
+auther - coZy
